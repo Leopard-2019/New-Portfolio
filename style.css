@@ -96,7 +96,7 @@ section {
 }
 
 .banner .contentBx h4 {
-  font-size: 1.5em;
+  font-size: 1.7em;
   color: #333;
   font-weight: 300;
 }
@@ -111,7 +111,7 @@ section {
   line-height: 1em;
 }
 p {
-  font-size: 1.1em;
+  font-size: 1.3em;
   margin: 20px 0;
   font-weight: 300;
 }
@@ -416,7 +416,7 @@ p {
   max-width: 150px;
 }
 
-/* @media (max-width: 991px) {
+@media (max-width: 991px) {
   .banner .imgSidebar {
     display: none;
   }
@@ -478,4 +478,4 @@ p {
     width: 100%;
     margin: 10px 0;
   }
-} */
+}
